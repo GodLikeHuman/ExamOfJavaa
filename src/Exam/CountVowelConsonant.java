@@ -7,7 +7,8 @@ class CountVowelConsonant {
         int vCount = 0, cCount = 0;
 
 
-        String str = "This is a really simple sentence";
+        String str = "OM !! Namah Shivay Shivji Sada Sahay  " +
+                "OM!! Namah Shivay Guruji Sada Sahay  x108";
 
         str = str.toLowerCase();
 

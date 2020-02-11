@@ -5,7 +5,8 @@ public class RecursionStringReverse
 
         public static void main(String[] args)
         {
-            String str = "Welcome to Amey's code";
+            String str = "OM !! Namah Shivay Shivji Sada Sahay  " +
+            "OM!! Namah Shivay Guruji Sada Sahay  x108";
             String reversed = reverseString(str);
             System.out.println("The reversed string is: " + reversed);
         }
